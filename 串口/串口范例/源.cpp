@@ -5,10 +5,10 @@
 #include <string>
 #include <conio.h>	//按键读取
 #include "..\..\图像识别\图像识别\loc.h"	//坐标位置
+
 #include "..\CnComm.h"	//Com口h档
 using namespace std;
 
-int Fx, Fy, Pump, CE;
 
 //! 样例程序0
 class HelloComm : public CnComm

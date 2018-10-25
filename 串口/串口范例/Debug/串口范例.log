@@ -1,2 +1,6 @@
 ﻿  源.cpp
-  串口范例.vcxproj -> D:\Users\Azk\Documents\GitHub\Auto-FireExtinguisher\串口\Debug\串口范例.exe
+源.obj : error LNK2001: 无法解析的外部符号 _Fx
+源.obj : error LNK2001: 无法解析的外部符号 _Fy
+源.obj : error LNK2001: 无法解析的外部符号 _Pump
+源.obj : error LNK2001: 无法解析的外部符号 _CE
+D:\Users\Azk\Documents\GitHub\AutoExtinguisher\串口\Debug\串口范例.exe : fatal error LNK1120: 4 个无法解析的外部命令

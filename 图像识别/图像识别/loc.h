@@ -7,4 +7,8 @@ int Pump = 0;//出水力度
 int CE = 560;//校验位
 
 */
- extern int Fx, Fy, Pump, CE;
+
+#ifndef A_H
+#define  A_H
+extern "C" int Fx, Fy, Pump, CE;
+#endif
