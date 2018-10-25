@@ -1,0 +1,84 @@
+﻿  源.cpp
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(45): warning C4101: “temp”: 未引用的局部变量
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(101): warning C4305: “初始化”: 从“double”到“float”截断
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(102): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(103): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(126): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(128): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(130): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(132): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(138): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(140): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(142): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(144): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(150): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(152): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(154): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(156): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(184): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(185): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(187): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(188): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\users\azk\documents\github\auto-fireextinguisher\图像识别\图像识别\源.cpp(189): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  图像识别.vcxproj -> D:\Users\Azk\Documents\GitHub\Auto-FireExtinguisher\图像识别\x64\Debug\图像识别.exe
